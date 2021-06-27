@@ -127,3 +127,15 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# invisible files in root dir.
+/.*/
+!/.gitignore
+
+# placeholder for test files.
+/tests
+
+.DS_Store
+
+# records
+records*.*
