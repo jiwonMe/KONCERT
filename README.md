@@ -56,3 +56,7 @@ with Session() as s :
 ## Reference
 
 - [NICE아이디 휴대폰본인확인 서비스 설명 페이지](https://www.niceid.co.kr/prod_mobile.nc)
+
+## Legal Notices
+
+본 라이브러리를 사용하여 대한민국 법률에 위배되는 서비스를 제작하는 것을 엄격하게 금합니다.
