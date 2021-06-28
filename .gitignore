@@ -139,3 +139,5 @@ dmypy.json
 
 # records
 records*.*
+
+temp.html
